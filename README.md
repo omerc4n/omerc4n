@@ -8,11 +8,19 @@
 
 ### 💫 About Me
 
-I am a passionate **Web Developer** who loves building dynamic, user-friendly web applications and exploring the capabilities of AI-driven development. I enjoy bringing ideas to life using modern frontend technologies and AI design tools.
+I am a passionate **Web Developer** who loves building dynamic, user-friendly web applications and exploring the capabilities of AI-driven development. I enjoy bringing ideas to life using modern frontend technologies and advanced AI tools.
 
 - 🛠️ Currently focusing on modern web frameworks and AI integrations.
-- 🚀 Always experimenting with new tools to optimize development workflows.
-- 💬 Ask me about **JavaScript, Vite, Tailwind CSS, or AI-powered IDEs**.
+- 🚀 Deeply interested in optimizing workflows using AI-powered development environments.
+- 💬 Ask me about **JavaScript, Vite, Tailwind CSS, or Antigravity IDE**.
+
+---
+
+### 🤖 Favorite AI Models
+
+My go-to large language models for development, code generation, and problem-solving:
+- ⚡ **Claude 3.5 Sonnet** - For complex logic, architectural planning, and precise refactoring.
+- 💨 **Gemini 1.5 Flash** - For lightning-fast iterations, prototyping, and quick context processing.
 
 ---
 
@@ -30,7 +38,7 @@ I am a passionate **Web Developer** who loves building dynamic, user-friendly we
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
   <br/>
   <img src="https://img.shields.io/badge/GIT-E44D26?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Antigravity_IDE-6f42c1?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity IDE" />
 </p>
 
 ---
@@ -40,7 +48,7 @@ I am a passionate **Web Developer** who loves building dynamic, user-friendly we
 | Project | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
 | 🌤️ **[Whisper Hava Durumu](https://github.com/omerc4n/whisper-hava-durumu)** | Vibe coding ile yapılmış modern hava durumu sitesi. | JS, Open-Meteo API, Tailwind | `Active` |
-| 💬 **[Wforumz Site](https://github.com/omerc4n/wforumz-site)** | Firebase tabanlı modern bir forum platformu projesi. | JS, Firebase, Vercel | `In Progress` |
+| 🌌 **[Google Antigravity](https://github.com/omerc4n)** | Advanced configuration and workspace integration experiments. | JSON, MCP, AI IDE | `In Progress` |
 | 💼 **[Portfolio](https://github.com/omerc4n/omerc4n-portfolio)** | Kişisel çalışmalarımı ve projelerimi sergilediğim web sitem. | Vite, Tailwind CSS | `Completed` |
 
 ---
