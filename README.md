@@ -1,9 +1,5 @@
 # Hi there, I'm Ömer Can 👋
 
-<p align="center">
-  <img src="https://komarev.com/normal-badges/percents/counter.svg?username=omerc4n&style=flat-square&label=Profile+Views&color=6f42c1" alt="Profile Views" />
-</p>
-
 ---
 
 ### 💫 About Me
@@ -55,11 +51,11 @@ My go-to large language models that I actively use for development and problem-s
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omerc4n&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Ömer's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omerc4n&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omerc4n&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omerc4n&theme=tokyonight" alt="GitHub Profile Details" />
 </p>
 
 ---
