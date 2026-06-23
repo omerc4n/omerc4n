@@ -46,7 +46,7 @@ My go-to large language models that I actively use for development and problem-s
 
 | Project | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
-| 🌤️ **[Whisper Hava Durumu](https://github.com/omerc4n/whisper-hava-durumu)** | modern hava durumu sitesi. | JS, Open-Meteo API, Tailwind | `Active` |
+| 🌤️ **[Whisper Hava Durumu](https://github.com/omerc4n/whisper-hava-durumu)** | Güncel hava durumlarını takip eden ve listeleyen web projesi. | JS, Open-Meteo API, Tailwind | `Active` |
 | 🚨 **[Whisper Deprem](https://github.com/omerc4n/whisper-deprem)** | Güncel deprem verilerini takip eden ve listeleyen web projesi. | JS, API, Tailwind CSS | `Active` |
 
 ---
