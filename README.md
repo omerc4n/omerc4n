@@ -15,8 +15,8 @@ I am a passionate **Web Developer** who loves building dynamic, user-friendly we
 ### 🤖 Favorite AI Models
 
 My go-to large language models that I actively use for development and problem-solving:
-- ⚡ **Claude 3.5 Sonnet** - For complex logic, architectural planning, and precise refactoring.
-- 💨 **Gemini 1.5 Flash** - For lightning-fast iterations, prototyping, and quick context processing.
+- ⚡ **Claude 4.6 Sonnet** - For complex logic, architectural planning, and precise refactoring.
+- 💨 **Gemini 3.5 Flash** - For lightning-fast iterations, prototyping, and quick context processing.
 
 ---
 
